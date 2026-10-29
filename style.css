@@ -5,12 +5,18 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     
 }
 .header h1{
-    flex-direction: column;
     color: olivedrab;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 40px;
+
+}
+.header p1{
+    color: olivedrab;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
 
 }
