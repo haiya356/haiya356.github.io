@@ -6,7 +6,7 @@ body{
 .header{
     width: 100%;
     height: 30vh;
-    background-color:burlywood;
+    background-color:rgb(238, 215, 186);
     background-size: cover;
     background-position: center;
     display: flex;
@@ -14,7 +14,7 @@ body{
     align-items: center;
     flex-direction: column;
     font-family: Arial, Helvetica, sans-serif;
-    color: olivedrab;
+    color: rgb(117, 155, 43);
     
 }
 .header h1{
@@ -27,14 +27,15 @@ body{
 }
 .welcome{
     text-align: center;
-    padding: 40%;
+    padding: 10%;
     font-family: Arial, Helvetica, sans-serif;
 
 }
 .welcome h2{
     font-size: 30px;
-    color: olivedrab;
+    color: rgb(117, 155, 43);
 }
 .welcome p{
     font-size: 18px;
+    color: rgb(117, 155, 43)
 }
