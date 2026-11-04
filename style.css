@@ -3,6 +3,13 @@ body{
     padding: 0%;
 
 }
+
+@keyframes fadein{
+    100%{
+        opacity:1;
+    }
+
+}
 .navbar{
     width: auto;
     height: 75px;
@@ -41,7 +48,6 @@ body{
     text-decoration: underline;
 
 }
-
 
 
 .welcome{
