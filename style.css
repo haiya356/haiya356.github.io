@@ -36,6 +36,13 @@ body{
     font-size: 15px;
 }
 
+.nav-links a:hover{
+    color: olive;
+    text-decoration: underline;
+
+}
+
+
 
 .welcome{
     text-align: center;
