@@ -4,12 +4,6 @@ body{
 
 }
 
-@keyframes fadein{
-    100%{
-        opacity:1;
-    }
-
-}
 .navbar{
     width: auto;
     height: 75px;
