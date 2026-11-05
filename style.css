@@ -55,6 +55,45 @@ body{
     color: rgb(117, 155, 43);
 }
 .welcome p{
-    font-size: 18px;
-    color: rgb(117, 155, 43)
+    font-size: 20px;
+    color: rgb(48, 63, 57);
 }
+.welcome img{
+    width: 80%;
+    height: auto;
+
+}
+
+.about {
+    text-align: center;
+    padding: 3%;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.about h2{
+    font-size: 30px;
+    color: rgb(117, 155, 43);
+}
+.about p{
+    font-size: 20px;
+    color: rgb(48, 63, 57);
+}
+
+.ingredients{
+    text-align: center;
+    padding: 3%;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.ingredients h2{
+    font-size: 30px;
+    color: rgb(117, 155, 43);
+}
+.ingredients p{
+    font-size: 20px;
+    color: rgb(48, 63, 57);
+}
+.ingredients img{
+    width: 70%;
+    height: auto;
+}
+    
