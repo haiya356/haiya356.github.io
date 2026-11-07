@@ -41,3 +41,43 @@ body{
     text-decoration: underline;
 
 }
+main{
+    animation: fadeIn 2s ease;
+}
+
+@keyframes fadeIn{
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.title{
+    text-align: center;
+    padding: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title h1{
+    font-size: 67px;
+    color: rgb(117, 155, 43);
+}
+.title p{
+    font-size: 25px;
+    color: rgb(48, 63, 57);
+}
+
+.Matcha{
+    text-align: center;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Matcha h1{
+    font-size: 30px;
+    color: rgb(117, 155, 43);
+}
+.Matcha p{
+    font-size: 20px;
+    color: rgb(48, 63, 57);
+}
