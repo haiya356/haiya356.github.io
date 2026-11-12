@@ -67,7 +67,7 @@ main{
 
 .title{
     text-align: center;
-    padding: 3%;
+    padding: 5%;
     font-family: Arial, Helvetica, sans-serif;
 }
 .title h1{
@@ -81,7 +81,6 @@ main{
 
 .Matcha{
     text-align: center;
-    padding: 0%;
     font-family: Arial, Helvetica, sans-serif;
     margin-bottom: 40px;
 }
@@ -93,16 +92,17 @@ main{
     font-size: 20px;
     color: rgb(48, 63, 57);
 }
-.Matcha-Drinks{
+.Drinks{
     display: flex;
     justify-content: center;
+    margin-bottom: 100px;
 
 
 }
 
 .Drinks1{
     text-align: center;
-    margin: 0 25px;
+    margin: 0 65px;
 }
 .Drinks1 img{
     width: 220px; 
@@ -110,6 +110,10 @@ main{
     object-fit: cover;
     padding: 0%;
     
+}
+
+.Drinks1 img:hover {
+    box-shadow: 0px 10px 25px rgba(0, 0, 0, 1)
 }
 .Drinks1 h1{
     font-size: 15px;
@@ -124,10 +128,9 @@ main{
 }
 
 .Thai-Tea{
-    padding: 50%;
     text-align: center;
-    padding: 0%;
     font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 40px;
 }
 
 .Thai-Tea h1{
@@ -135,6 +138,22 @@ main{
     color: rgb(117, 155, 43);
 }
 .Thai-Tea p{
+    font-size: 20px;
+    color: rgb(48, 63, 57);
+}
+
+.Specials{
+    text-align: center;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 40px;
+}
+
+.Specials h1{
+    font-size: 30px;
+    color: rgb(117, 155, 43);
+}
+.Specials p{
     font-size: 20px;
     color: rgb(48, 63, 57);
 }
