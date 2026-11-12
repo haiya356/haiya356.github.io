@@ -23,6 +23,16 @@ body{
     margin: 0;
 
 }
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo img{
+    height: 40px;
+    width: auto;
+    margin-left: 8px;
+
+}
 
 .nav-links{
     display: flex;
