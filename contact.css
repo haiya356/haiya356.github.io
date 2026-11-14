@@ -64,3 +64,41 @@ main{
         opacity: 1;
     }
 }
+
+.contact{
+    text-align: center;
+    padding: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contact h1{
+    font-size: 57px;
+    color: rgb(117, 155, 43);
+}
+.contact p{
+    font-size: 25px;
+    color: rgb(48, 63, 57);
+}
+.contact a{
+    font-size: 50px;
+    color: rgb(36, 170, 233);
+}
+.contact a:hover{
+    color: rgb(17, 141, 223);
+    text-decoration: underline;
+}
+.Thanks{
+    text-align: center;
+    padding: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Thanks h1{
+    font-size: 57px;
+    color: rgb(117, 155, 43);
+    
+}
+.Thanks p{
+    font-size: 25px;
+    color: rgb(48, 63, 57);
+    width: 80%;
+    margin: auto;
+}
